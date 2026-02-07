@@ -9,10 +9,6 @@ Property owners face many challenges that affect their daily management, such as
 
 **Kafo** provides a **comprehensive property management solution** by consolidating properties, complaints, and payments into a **single real-time dashboard**, making decision-making easier and reducing waste.
 
-
-## Design Prototype 
-https://www.figma.com/design/N4wcXp3D0vrvNwiQuMX90u/%D9%83%D9%81%D9%88?node-id=89-12187&t=2hmDgqS92N0tpTVz-0
-
 ## Output
 <img width="1698" height="950" alt="image" src="https://github.com/user-attachments/assets/5fda37a3-f8ff-44ca-8d55-46e17f24845b" />
 
