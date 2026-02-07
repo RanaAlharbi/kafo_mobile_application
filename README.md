@@ -11,7 +11,7 @@ Property owners face many challenges that affect their daily management, such as
 
 ## Output
 <img width="1698" height="950" alt="image" src="https://github.com/user-attachments/assets/5fda37a3-f8ff-44ca-8d55-46e17f24845b" />
-![kafo1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa50aafe-8aec-4d5c-8973-c1a437916ab2)
+![App Demo](assets/kafo1-ezgif.com-video-to-gif-converter.gif)
 
 
 
